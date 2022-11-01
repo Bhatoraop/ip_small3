@@ -1,0 +1,83 @@
+.contain{
+    background-color: rgb(162, 161, 161);
+}
+
+.main_header{
+     font-family: 'Anton', sans-serif;
+     font-size:30px;
+     font-weight:bold;
+}
+
+.div1{
+    background-color: rgb(62, 59, 59);
+}
+     
+.header-nav{
+    font-size:10px;
+    text-align: center;
+    word-spacing: 7px;
+    
+}
+
+.row1{
+    grid-template-columns: (3,1fr);
+}
+
+
+
+
+
+
+.main-footer{
+    background-color: rgb(62, 59, 59);
+}
+
+.footer-div1{
+    
+    font-size: 10px;
+    color:aliceblue;
+    text-align: center;
+    word-spacing: 7px;
+
+
+}
+
+.footer-p{
+    text-align: center;
+    font-size: medium;
+    color:aliceblue;
+    
+
+}
+.footer-p2{
+    text-align: center;
+    object-fit:cover;
+  border-radius:50%;
+  word-spacing: 7px;
+  
+
+
+}
+.footer-p3{
+
+   color:white;
+   font-size:10px;
+   text-align: center;
+}
+
+
+.row1{
+    
+    background-color: rgb(197, 197, 197);
+}
+
+.line{
+
+    border-style:solid;
+    color:rgb(215, 215, 215)
+}
+
+.section2{
+    background-color: beige;
+    size-adjust:25px 10px 25px 10px ;
+}
